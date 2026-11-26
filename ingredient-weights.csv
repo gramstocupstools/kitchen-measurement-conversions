@@ -1,0 +1,12 @@
+
+ingredient,preparation,grams_per_us_cup,data_status
+all-purpose-flour,dry,120,published-reference
+bread-flour,dry,120,published-reference
+granulated-sugar,dry,198,published-reference
+brown-sugar,packed,213,published-reference
+butter,standard,226,derived-reference
+honey,liquid,336,derived-reference
+chocolate-chips,standard,170,published-reference
+cocoa-powder,unsweetened,84,published-reference
+brown-rice,cooked,170,published-reference
+basmati-rice,dry-white,185,provisional-estimate
